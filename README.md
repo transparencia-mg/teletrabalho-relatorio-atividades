@@ -12,7 +12,7 @@ pip install requirements.txt
 
 ## Uso
 
-Salve as tabelas em html (instruções [aqui]()) na pasta `data/<servidor>/` e execute o comando
+Salve as tabelas em html (instruções [aqui]()) com nome `YYYY-MM.html` na pasta `data/<servidor>/` e execute o comando
 
 ```
 python main.py <servidor>
