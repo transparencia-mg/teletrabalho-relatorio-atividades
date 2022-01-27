@@ -7,7 +7,7 @@ Script para extração da tabela de atividades do Relatório de Atividades do SE
 Crie um ambiente virtual python e instale as dependências com
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Uso
